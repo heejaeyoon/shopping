@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\admin\Desktop\_20230109"/>
+		<item value="C:\Users\admin\Desktop\20230109"/>
+	</list>
+	<section name="CleanDialogSettings">
+		<item value="500" key="DIALOG_WIDTH"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="402" key="DIALOG_HEIGHT"/>
+		<item value="524" key="DIALOG_X_ORIGIN"/>
+		<item value="270" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\JavaProgramming\source\chap11"/>
+			<item value="C:\JavaProgramming\source\chap10"/>
+			<item value="C:\JavaProgramming\source\chap09"/>
+			<item value="C:\JavaProgramming\source\chap08"/>
+			<item value="C:\Users\admin\Desktop\jsp23-master\eclipse\chap18"/>
+			<item value="C:\JavaProgramming\source\chap07"/>
+			<item value="C:\JavaProgramming\source\chap06"/>
+			<item value="C:\JavaProgramming\source\_ajaxAtag"/>
+			<item value="C:\JavaProgramming\source"/>
+			<item value="C:\Users\admin\Desktop\yhj_shopping"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+			<item value="C:\JavaProgramming\source\shopping\WebContent\admin\admin.jsp"/>
+			<item value="C:\JavaProgramming\source\shopping\WebContent\uploadaction.jsp"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>

@@ -1,0 +1,16 @@
+package _jsp0126;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Ther {
+	private Map<String,Double> cm = 
+			new HashMap<>();
+	public void setCel(String loc, Double val) {
+		cm.put(loc, val);
+	}
+	public Double getCel(String loc) {
+		double sel = cm.get(loc);
+		return cm.get(loc);
+	}
+}

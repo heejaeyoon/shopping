@@ -1,0 +1,9 @@
+package test;
+
+import java.util.HashMap;
+
+import com.sun.javafx.collections.MappingChange.Map;
+
+public class MyHash {
+	private static Map<String, String> mh = new HashMap()
+}

@@ -1,0 +1,7 @@
+package _jsp0126;
+
+public class Score {
+	private String name;
+	private int kor;
+	
+}

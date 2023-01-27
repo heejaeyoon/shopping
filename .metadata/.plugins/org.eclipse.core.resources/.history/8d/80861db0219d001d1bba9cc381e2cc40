@@ -1,0 +1,19 @@
+package _jsp0126;
+
+import java.util.HashMap;
+import java.util.Map;
+
+import javafx.scene.control.Cell;
+
+public class Ther {
+	private Map<String, Double> cm = new HashMap<>();
+
+	public void setCel(String loc, Double val) {
+		cm.put(loc, val);
+	}
+
+	public Double getCel(String loc) {
+		double cel = cm.get(loc);
+		return cel.doubleValue() * 1.8 + 32.0;
+	}
+}

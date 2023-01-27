@@ -1,0 +1,121 @@
+
+1월 11, 2023 16:35:11.24 NEW SESSION
+1월 11, 2023 16:35:11.24 [2380:5376:0111/163511.227:ERROR:device_event_log_impl.cc(215)] [16:35:11.226] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 11, 2023 16:35:11.24 [2380:5376:0111/163511.229:ERROR:device_event_log_impl.cc(215)] [16:35:11.229] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 11, 2023 16:35:56.85 [10140:5556:0111/163556.857:ERROR:device_event_log_impl.cc(215)] [16:35:56.857] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 11, 2023 16:35:56.86 [10140:5556:0111/163556.859:ERROR:device_event_log_impl.cc(215)] [16:35:56.859] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 11, 2023 16:36:54.84 [10140:15288:0111/163654.844:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+1월 11, 2023 16:39:02.80 [12732:328:0111/163902.806:ERROR:device_event_log_impl.cc(215)] [16:39:02.806] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 11, 2023 16:39:02.80 [12732:328:0111/163902.809:ERROR:device_event_log_impl.cc(215)] [16:39:02.810] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 11, 2023 16:40:00.80 [12732:11792:0111/164000.800:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+1월 11, 2023 16:41:28.11 [8520:16896:0111/164128.117:ERROR:device_event_log_impl.cc(215)] [16:41:28.124] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 11, 2023 16:41:28.11 [8520:16896:0111/164128.117:ERROR:device_event_log_impl.cc(215)] [16:41:28.126] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 11, 2023 16:43:17.52 [1904:6004:0111/164317.521:ERROR:device_event_log_impl.cc(215)] [16:43:17.520] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 11, 2023 16:43:17.52 [1904:6004:0111/164317.523:ERROR:device_event_log_impl.cc(215)] [16:43:17.523] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 11, 2023 16:44:15.50 [1904:6516:0111/164415.501:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+1월 11, 2023 16:50:44.83 [1904:6004:0111/165044.831:ERROR:device_event_log_impl.cc(215)] [16:50:44.830] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+
+1월 11, 2023 19:33:20.66 NEW SESSION
+1월 11, 2023 19:33:20.66 [13136:11240:0111/193320.667:ERROR:device_event_log_impl.cc(215)] [19:33:20.667] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 11, 2023 19:33:20.66 [13136:11240:0111/193320.669:ERROR:device_event_log_impl.cc(215)] [19:33:20.668] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 11, 2023 19:34:18.63 [13136:10308:0111/193418.633:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+1월 12, 2023 09:10:43.47 NEW SESSION
+1월 12, 2023 09:10:43.47 [10620:10484:0112/091043.471:ERROR:device_event_log_impl.cc(215)] [09:10:43.470] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 12, 2023 09:10:43.47 [10620:10484:0112/091043.472:ERROR:device_event_log_impl.cc(215)] [09:10:43.472] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 12, 2023 09:10:43.47 [10620:10484:0112/091043.473:ERROR:device_event_log_impl.cc(215)] [09:10:43.473] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 12, 2023 09:11:41.47 [10620:8112:0112/091141.477:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+1월 12, 2023 09:16:17.96 [3292:10108:0112/091617.959:ERROR:device_event_log_impl.cc(215)] [09:16:17.959] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 12, 2023 09:16:17.96 [3292:10108:0112/091617.959:ERROR:device_event_log_impl.cc(215)] [09:16:17.959] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 12, 2023 09:16:17.96 [3292:10108:0112/091617.960:ERROR:device_event_log_impl.cc(215)] [09:16:17.959] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 12, 2023 09:16:17.96 [3292:10108:0112/091617.963:ERROR:device_event_log_impl.cc(215)] [09:16:17.962] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 12, 2023 09:17:15.93 [3292:8016:0112/091715.930:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+1월 12, 2023 10:05:57.52 [3292:10108:0112/100557.526:ERROR:interface_endpoint_client.cc(694)] Message 0 rejected by interface blink.mojom.WidgetHost
+1월 12, 2023 11:08:41.01 [3292:224:0112/110841.017:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for cloud15.tvple.me failed:
+1월 12, 2023 11:08:41.01 ----- Certificate i=0 (CN=localhost.localdomain) -----
+1월 12, 2023 11:08:41.01 ERROR: No matching issuer found
+1월 12, 2023 11:08:41.01 
+1월 12, 2023 11:08:41.01 
+1월 12, 2023 13:59:01.13 [3292:10108:0112/135901.130:ERROR:device_event_log_impl.cc(215)] [13:59:01.138] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+1월 12, 2023 14:02:13.44 [3292:10108:0112/140213.448:ERROR:device_event_log_impl.cc(215)] [14:02:13.440] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+1월 12, 2023 14:17:15.88 [3292:13732:0112/141715.888:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+1월 12, 2023 17:01:01.50 [3292:10108:0112/170101.504:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading '__widget')", source:  (0)
+1월 12, 2023 17:02:53.94 [3292:10108:0112/170253.941:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:53.95 [3292:10108:0112/170253.941:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:53.95 [3292:10108:0112/170253.941:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:53.95 [3292:10108:0112/170253.941:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:53.96 [3292:10108:0112/170253.941:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:54.94 [3292:10108:0112/170254.946:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:54.94 [3292:10108:0112/170254.946:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:54.94 [3292:10108:0112/170254.946:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:54.94 [3292:10108:0112/170254.946:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:54.94 [3292:10108:0112/170254.946:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:54.95 [3292:10108:0112/170254.946:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:54.95 [3292:10108:0112/170254.946:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:54.95 [3292:10108:0112/170254.946:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:59.23 [3292:10108:0112/170259.234:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:59.23 [3292:10108:0112/170259.234:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:59.23 [3292:10108:0112/170259.234:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:59.23 [3292:10108:0112/170259.234:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:59.23 [3292:10108:0112/170259.234:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:59.23 [3292:10108:0112/170259.234:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:59.23 [3292:10108:0112/170259.234:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:59.23 [3292:10108:0112/170259.234:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:59.23 [3292:10108:0112/170259.234:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:59.23 [3292:10108:0112/170259.234:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:59.95 [3292:10108:0112/170259.956:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:59.95 [3292:10108:0112/170259.956:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:59.95 [3292:10108:0112/170259.956:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:59.95 [3292:10108:0112/170259.956:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:59.96 [3292:10108:0112/170259.956:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:59.96 [3292:10108:0112/170259.956:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:59.96 [3292:10108:0112/170259.956:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:59.96 [3292:10108:0112/170259.956:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:59.96 [3292:10108:0112/170259.956:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:59.96 [3292:10108:0112/170259.956:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:59.96 [3292:10108:0112/170259.956:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:59.96 [3292:10108:0112/170259.956:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:02:59.96 [3292:10108:0112/170259.957:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 17:39:25.28 [3292:10108:0112/173925.288:ERROR:CONSOLE(1)] "Session is unregistering, can't dispatch pending call to Debugger.setBlackboxPatterns", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 12, 2023 18:18:10.03 [3292:10108:0112/181810.038:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 18:18:10.03 [3292:10108:0112/181810.038:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 18:18:10.04 [3292:10108:0112/181810.038:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 18:18:10.04 [3292:10108:0112/181810.038:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 18:18:10.04 [3292:10108:0112/181810.038:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 18:18:10.95 [3292:10108:0112/181810.951:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 18:18:10.95 [3292:10108:0112/181810.951:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 18:18:10.95 [3292:10108:0112/181810.951:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 18:18:10.95 [3292:10108:0112/181810.951:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 18:18:10.95 [3292:10108:0112/181810.951:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 18:18:10.95 [3292:10108:0112/181810.951:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 18:18:10.95 [3292:10108:0112/181810.951:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 18:18:10.95 [3292:10108:0112/181810.951:ERROR:CONSOLE(6)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/panels/console/console.js (6)
+1월 12, 2023 19:17:15.89 [3292:8320:0112/191715.898:ERROR:util.cc(133)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+1월 18, 2023 09:11:04.49 NEW SESSION
+1월 18, 2023 09:11:04.49 [17088:8712:0118/091104.492:ERROR:device_event_log_impl.cc(215)] [09:11:04.492] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 18, 2023 09:11:04.49 [17088:8712:0118/091104.493:ERROR:device_event_log_impl.cc(215)] [09:11:04.493] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 18, 2023 09:12:02.42 [17088:11224:0118/091202.425:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+1월 18, 2023 11:27:41.77 [17088:8712:0118/112741.769:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+1월 18, 2023 13:27:52.93 [17088:8712:0118/132752.933:ERROR:device_event_log_impl.cc(215)] [13:27:52.934] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+1월 18, 2023 14:02:25.04 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+1월 18, 2023 14:12:02.37 [17088:10740:0118/141202.374:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+1월 18, 2023 15:38:57.75 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+1월 18, 2023 16:14:34.48 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+1월 18, 2023 16:22:19.30 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+1월 18, 2023 16:24:11.99 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+1월 18, 2023 16:40:49.29 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+1월 18, 2023 17:40:57.85 [17088:8712:0118/174057.851:ERROR:CONSOLE(1)] "console.assert", source: devtools://devtools/bundled/devtools-frontend/front_end/core/sdk/sdk.js (1)
+1월 18, 2023 17:40:57.85 [17088:8712:0118/174057.851:ERROR:CONSOLE(0)] "TypeError: Cannot read properties of null (reading 'resourceURL')", source:  (0)
+1월 18, 2023 19:12:02.38 [17088:15504:0118/191202.384:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+1월 18, 2023 19:44:48.02 [17088:6700:0118/194448.024:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from C:\Users\admin\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: C:\Users\admin\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+1월 18, 2023 19:44:50.03 [17088:6700:0118/194450.036:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from C:\Users\admin\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: C:\Users\admin\AppData\Local\Google\Chrome\User Data\Profile 3\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+
+1월 25, 2023 14:08:41.70 NEW SESSION
+1월 25, 2023 14:08:41.70 [15400:84:0125/140841.689:ERROR:device_event_log_impl.cc(215)] [14:08:41.689] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+1월 25, 2023 14:08:41.70 [15400:84:0125/140841.691:ERROR:device_event_log_impl.cc(215)] [14:08:41.691] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+1월 25, 2023 14:09:38.68 [15400:9124:0125/140938.684:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+1월 25, 2023 15:19:16.92 [15400:84:0125/151916.923:ERROR:device_event_log_impl.cc(215)] [15:19:16.923] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+1월 25, 2023 16:09:02.17 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+1월 25, 2023 16:17:01.08 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+1월 25, 2023 19:09:38.63 [15400:15300:0125/190938.631:ERROR:util.cc(134)] Can't create base directory: C:\Program Files\Google\GoogleUpdater

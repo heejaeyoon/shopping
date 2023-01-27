@@ -1,0 +1,9 @@
+package _jsp0126;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Ther {
+	private Map<String,Double> cm = 
+			new HashMap<>();
+}
